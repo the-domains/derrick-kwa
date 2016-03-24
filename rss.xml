@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Derrick Kwa]]></title>
+        <description><![CDATA[Derrick Kwa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 18:36:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life’s too short to not do what you love]]></title>
+            <description><![CDATA[<article><h1>Life’s too short to not do what you love</h1><p>When we were kids, we believed we could be anything. We had dreams of being cowboys and presidents and astronauts – andwe weren’t afraid of telling anyone. We colored, sang, danced, and we didn’t worry what other thought.We showed the world who we were – our full selves, with all our dreams, faults and quirks.</p></article>]]></description>
+            <link>undefinedlifes-too-short-to-not-do-what-you-love/index.html</link>
+            <guid isPermaLink="false">24b4090b-252b-4ca4-a34c-98e8588099d0</guid>
+            <pubDate>Thu, 24 Mar 2016 18:36:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
