@@ -5,24 +5,26 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'When we were kids, we believed we could be anything. We had dreams of being cowboys and presidents and astronauts – andwe weren’t afraid of telling anyone. We colored, sang, danced, and we didn’t worry what other thought.We showed the world who we were – our full selves, with all our dreams, faults and quirks.'
-datePublished: '2016-03-24T18:36:20.589Z'
-dateModified: '2016-03-24T18:36:10.772Z'
+description: "When we were kids, we believed we could be anything. We had dreams of being cowboys and presidents and astronauts – and\_we weren’t afraid of telling anyone. We colored, sang, danced, and we didn’t worry what other thought.We showed the world who we were – our full selves, with all our dreams, faults and quirks."
+datePublished: '2016-03-24T18:37:17.818Z'
+dateModified: '2016-03-24T18:36:43.294Z'
 title: Life’s too short to not do what you love
 author: []
+sourcePath: _posts/2016-03-24-lifes-too-short-to-not-do-what-you-love.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-lifes-too-short-to-not-do-what-you-love.md
-published: true
 url: lifes-too-short-to-not-do-what-you-love/index.html
 _type: Article
 
 ---
-When we were kids, we believed we could be anything. We had dreams of being cowboys and presidents and astronauts -- and_we weren't afraid of telling anyone_. We colored, sang, danced, and we didn't worry what other thought.**We showed the world who we were -- our full selves, with all our dreams, faults and quirks**.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41c050e8-b253-406f-b5d5-e7f86c9c24e6.jpg)
+
+When we were kids, we believed we could be anything. We had dreams of being cowboys and presidents and astronauts -- and _we weren't afraid of telling anyone_. We colored, sang, danced, and we didn't worry what other thought.**We showed the world who we were -- our full selves, with all our dreams, faults and quirks**.
 
 _But as we grew up, the world got to us._School taught us that repeating the correct answers mattered more than our creativity of thought. We learned to remember facts and regurgitate them in tests, instead of using our imagination and thinking for ourselves. We quickly learned that if we didn't do what our teachers told us, we'd get into trouble. We were better off just following the rules and doing as we were told.**We learned not to interrupt, to only speak when called upon, to not cause any disturbances.**
 
